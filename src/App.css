@@ -27,7 +27,8 @@ body {
 }
 
 h1 {
-  margin: 32px 0;
+  margin: auto;
+  text-align: center;
   color: #fff;
   font-size: 24px;
 }
