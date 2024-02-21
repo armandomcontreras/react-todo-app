@@ -1,6 +1,8 @@
 /* (320x480) iPhone (Original, 3G, 3GS) */
 @media only screen and (min-device-width: 320px) and (max-device-width: 640px) {
-    /* insert styles here */
+  .todo-app {
+    width: 480px;
+  }
 }
  
 /* (320x480) Smartphone, Portrait */
