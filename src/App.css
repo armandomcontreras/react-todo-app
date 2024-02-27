@@ -1,7 +1,7 @@
 /* (320x480) iPhone (Original, 3G, 3GS) */
 @media only screen and (min-device-width: 320px) and (max-device-width: 640px) {
-  .todo-app {
-    width: 400px;
+  .div-content {
+    width: 400px !important;
   }
 }
  
@@ -32,7 +32,7 @@ body {
     rgba(100, 115, 255, 1) 100%
   );
 }
-.todo-app {
+.todo-app .div-content {
   display: flex;
   flex-direction: column;
   justify-content: start;
